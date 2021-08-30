@@ -1,3 +1,4 @@
+@Library('jenkins-shared-library-demo@main')_
 pipeline {
     agent {
         node {
